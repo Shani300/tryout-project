@@ -13,3 +13,5 @@ This line has been added by updating-branch-1
 This line was added by updating branch 2
 
 I want to submit a pull request (By submit-pr-2)
+I am the main branch' and me' and only me' would decide if to accept the PR's or not!!!
+
