@@ -12,3 +12,4 @@ This line has been added by updating-branch-1
 
 This line was added by updating branch 2
 
+I want to submit a pull request (By submit-pr-2)
